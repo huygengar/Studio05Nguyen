@@ -5,5 +5,9 @@
     <string-array name="mode_array">
         <item>Sketchy mode</item>
         <item>Fractal mode</item>
+        <item>Points mode</item>
+        <item>Averaging mode</item>
+        <item>Geometry mode</item>
+        <item>Bezier mode</item>
     </string-array>
 </resources>
